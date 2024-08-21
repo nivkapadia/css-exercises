@@ -1,0 +1,14 @@
+.common
+{
+    font-size: 28px;
+    font-family: Helevtica, "Times New Roman", sans-serif;   
+}
+.second-element
+{
+    background-color: yellow;
+}
+.first-element
+{
+    background-color: black;
+    color: white;
+}
